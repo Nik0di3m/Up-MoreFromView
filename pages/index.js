@@ -14,7 +14,7 @@ const Home = () => {
     }
     return (
         <div className="lg:bg-hero-pattern bg-cover min-h-[100vh] flex flex-col w-screen lg:pl-24">
-            <div className="relative w-full h-[50vh] md:h-1/2 lg:hidden">
+            <div className="relative w-full h-[50vh] lg:hidden">
                 <Image
                     src="/bg_image.jpg"
                     alt="sdf"
